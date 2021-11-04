@@ -1,5 +1,11 @@
 @import "antd/dist/antd.css";
-@import url(https://fonts.googleapis.com/css?family=Sacramento);
+@import url("https://fonts.googleapis.com/css?family=Sacramento");
+/* @import url("https://fonts.googleapis.com/css?family=Poppins"); */
+
+/* body {
+  font-family: "Poppins";
+} */
+
 .menu {
   width: 100%;
   padding: 0 20px;
